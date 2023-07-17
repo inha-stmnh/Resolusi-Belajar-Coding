@@ -1,0 +1,3 @@
+Belajar Fundamental HTML, CSS, JavaScript
+Belajar OOP Javascript, dan PHP
+Belajar Framework untuk Frontend & Backend
