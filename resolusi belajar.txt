@@ -1,4 +1,4 @@
 Belajar Fundamental HTML, CSS, JavaScript
 Belajar OOP Javascript, dan PHP
 Belajar Framework untuk Frontend & Backend
-Belajar Buat Projek Sederhana
+Belajar Buat Projek Web secara real dihosting
